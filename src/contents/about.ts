@@ -7,7 +7,7 @@ const aboutContent: Content[] = [
     endTime: "present",
     timePeriod: "2024 - Present",
     type: "work",
-    position: "Software Engineer",
+    position: "Senior Software Engineer",
     company: {
       name: "Atlantic Technology Ltd.",
       href: "https://www.atlantictechnology.co.uk/",

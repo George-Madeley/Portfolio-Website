@@ -1,4 +1,4 @@
-I'm a Software Engineer at Atlantic Technology Ltd., where we design, build, and deploy full-stack software products for international law enforcement and national security communities. My work spans front end, back end, build systems, and customer support-delivering secure, reliable products that perform across web, desktop, and mobile environments.
+I'm a Senior Software Engineer at Atlantic Technology Ltd., where we design, build, and deploy full-stack software products for international law enforcement and national security communities. My work spans front end, back end, build systems, and customer support-delivering secure, reliable products that perform across web, desktop, and mobile environments.
 
 ## What I do
 

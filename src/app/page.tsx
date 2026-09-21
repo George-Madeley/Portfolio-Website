@@ -61,7 +61,7 @@ export default function HomePage() {
             About me
           </Button>,
         ]}
-        caption="Software Engineering at Atlantic Technology."
+        caption="Senior Software Engineering at Atlantic Technology."
         name={
           <>
             George <br /> Madeley
@@ -89,7 +89,7 @@ export default function HomePage() {
       />
       <Stack gap={30} sx={{ mb: 30 }}>
         <FeaturedJobs
-          caption="I'm a software engineer working for Atlantic Technology
+          caption="I'm a senior software engineer working for Atlantic Technology
                   Ltd. With interests in full-stack development and artificial
                   intelligence. You can find me optimizing my code for many
                   projects, building and repairing computers, or even playing
@@ -164,10 +164,10 @@ export default function HomePage() {
               duration: "2024-Present",
               description: (
                 <Typography sx={{ color: "text.primary" }}>
-                  Software Engineer at Atlantic Technology Ltd delivering secure
-                  full-stack products across web, desktop, and mobile. Leads
-                  front-end delivery/modernisation and contributes to back-end
-                  services, CI/CD, and native/embedded integrations.
+                  Senior Software Engineer at Atlantic Technology Ltd delivering
+                  secure full-stack products across web, desktop, and mobile.
+                  Leads front-end delivery/modernisation and contributes to
+                  back-end services, CI/CD, and native/embedded integrations.
                 </Typography>
               ),
               primaryButton: (
